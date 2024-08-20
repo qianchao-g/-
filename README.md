@@ -20,4 +20,6 @@
 
 可以拿来部署微信H5,通过售卖会员盈利,已有成功案例,私信可获取成功案例。
 
+ ### 程序使用/部署上线 价格可谈
+
 ![f9205cda26bf247a425bf4f409268fb](https://github.com/user-attachments/assets/c3849801-3ed6-404a-95ac-a95b83b05209)
